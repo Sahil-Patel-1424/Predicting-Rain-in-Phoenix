@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+credentials.json
+discord.log
+feature_analysis_pipeline.py
+forecast_los_angeles_weather_data.csv
+forecast_phoenix_weather_data.csv
+observed_los_angeles_weather_data.csv
+observed_phoenix_weather_data.csv
+random notes.py
+variables.txt
